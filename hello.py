@@ -2,7 +2,6 @@
 
 __author__="mjk6zt"
 
-def greeting(msg):
-    print(msg)
+from helper import greeting
 
 greeting("hello, world")
